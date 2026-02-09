@@ -1,3 +1,11 @@
+//********************************************************************
+// Author: Luis Rios
+// Assignment: 4
+// Description:Console based RPG character utility that allows user
+//             create a character, view and calculate combat stats,  
+//             and level up.
+//********************************************************************
+
 #include <iostream>
 #include <string>
 #include <iomanip>
